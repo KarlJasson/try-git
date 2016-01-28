@@ -8,7 +8,6 @@
 	
 	<body>
 		<h1>Welcome to Git!</h1>
-		<img src="images.jpg"/>
 	</body>
 
 </html>
